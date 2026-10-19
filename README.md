@@ -16,12 +16,6 @@ I’m Muhammad Tayyab, a WordPress developer and full-stack developer who enjoys
 
 Currently, I work as a **WordPress Developer at Ecomalign Digital Agency** and previously completed a **Full-Stack Developer internship at DevelopersHub Corporation**.
 
-## Experience
-
-- **WordPress Developer** — Ecomalign Digital Agency · Full-time  
-  `Apr 2026 – Present` · Sahiwal District, Punjab, Pakistan
-- **Full-Stack Developer** — DevelopersHub Corporation · Internship  
-  `Feb 2026 – Mar 2026` · Remote
 
 ## Certifications & Learning
 
@@ -41,6 +35,7 @@ Based on the supplied LinkedIn certifications screenshot:
 - WordPress development
 - Site building
 - WordPress website implementation
+- Plugin Development 
 
 **Web Development**
 - Web development
@@ -49,8 +44,6 @@ Based on the supplied LinkedIn certifications screenshot:
 **Marketing & Search**
 - Search engine optimization (SEO)
 - LinkedIn advertising
-- Social listening
-- Digital PR
 
 **Quality & Delivery**
 - Quality assurance mindset
@@ -58,20 +51,6 @@ Based on the supplied LinkedIn certifications screenshot:
 
 > Skills above are limited to the supplied profile screenshots and experience details. Add specific programming languages, frameworks, testing tools, or platforms only when you can verify them from your project history or resume.
 
-## Selected Projects
-
-These are links to public repositories visible on the GitHub profile. Review each repository before pinning it as a featured project; descriptions and technologies are intentionally not guessed.
-
-- [Ride Sharing System](https://github.com/M-Tayyab-dev/ridesharingsystem)
-- [Logic Leap](https://logicleap.ae/)
-- [Portfolio](https://github.com/M-Tayyab-dev/portfolio)
-- [Homepage](https://github.com/M-Tayyab-dev/homePage)
-- [Form Validation JS](https://github.com/M-Tayyab-dev/form-validation-js)
-- [TechProHub](https://github.com/M-Tayyab-dev/techprohub)
-
-## GitHub Activity
-
-Contribution graph provided by a third-party service using the public GitHub username. If the service is unavailable, visit [my GitHub profile](https://github.com/M-Tayyab-dev) to view the native contribution calendar.
 
 
 ## Education & Recognition
