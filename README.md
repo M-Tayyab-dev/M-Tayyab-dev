@@ -63,6 +63,7 @@ Based on the supplied LinkedIn certifications screenshot:
 These are links to public repositories visible on the GitHub profile. Review each repository before pinning it as a featured project; descriptions and technologies are intentionally not guessed.
 
 - [Ride Sharing System](https://github.com/M-Tayyab-dev/ridesharingsystem)
+- [Logic Leap](https://logicleap.ae/)
 - [Portfolio](https://github.com/M-Tayyab-dev/portfolio)
 - [Homepage](https://github.com/M-Tayyab-dev/homePage)
 - [Form Validation JS](https://github.com/M-Tayyab-dev/form-validation-js)
@@ -72,11 +73,6 @@ These are links to public repositories visible on the GitHub profile. Review eac
 
 Contribution graph provided by a third-party service using the public GitHub username. If the service is unavailable, visit [my GitHub profile](https://github.com/M-Tayyab-dev) to view the native contribution calendar.
 
-<p align="center">
-  <a href="https://github.com/M-Tayyab-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Tayyab-dev&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph for M-Tayyab-dev" width="100%">
-  </a>
-</p>
 
 ## Education & Recognition
 
