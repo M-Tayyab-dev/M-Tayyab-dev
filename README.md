@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sushmita-hero.svg" alt="Muhammad Tayyab — WordPress Developer, Full-Stack Developer, Creative Technologist and QA Specialist" width="100%">
+  <img src="assets/hero.svg" alt="Muhammad Tayyab — WordPress Developer, Full-Stack Developer, Creative Technologist and QA Specialist" width="100%">
   <br><br>
   <a href="https://www.linkedin.com/in/muhammad-tayyab-se-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
