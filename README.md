@@ -12,14 +12,11 @@
 
 ## About
 
-I’m Muhammad Tayyab, a WordPress developer and full-stack developer who enjoys turning ideas into practical, polished web experiences. My work spans website builds, CMS-based solutions, front-end implementation, and quality-focused testing. I also bring a creative-technology mindset to how interfaces are designed and delivered.
+I’m Muhammad Tayyab, a WordPress developer and full-stack developer who enjoys turning ideas into practical, polished web experiences. My work spans website development, CMS-based solutions, front-end implementation, plugin development, and quality-focused testing. I also bring a creative-technology mindset to how interfaces are designed, developed, and delivered.
 
 Currently, I work as a **WordPress Developer at Ecomalign Digital Agency** and previously completed a **Full-Stack Developer internship at DevelopersHub Corporation**.
 
-
 ## Certifications & Learning
-
-Based on the supplied LinkedIn certifications screenshot:
 
 - Full-Stack Development — DevelopersHub Corporation
 - LinkedIn Advertising Fundamentals Certification — LinkedIn
@@ -31,31 +28,48 @@ Based on the supplied LinkedIn certifications screenshot:
 
 ## Skills
 
-**WordPress & CMS**
-- WordPress development
-- Site building
-- WordPress website implementation
-- Plugin Development 
+**Programming Languages**
+- PHP
+- C++
+- Python
+- Java
+- JavaScript
 
-**Web Development**
-- Web development
-- Full-stack development
+**Frontend Development**
+- HTML5
+- CSS3
+- Responsive Web Design
+- Frontend Development
+
+**WordPress & CMS**
+- WordPress Development
+- WordPress Theme Customization
+- WordPress Plugin Development
+- WooCommerce
+- CMS-Based Website Development
+
+**Quality Assurance & Testing**
+- Manual Testing
+- Functional Testing
+- Cross-Browser Testing
+- Responsive Testing
+- API Testing
+- Bug Identification and Reporting
+- Website Troubleshooting
+
+**Testing Tools & Project Management**
+- Selenium IDE
+- Postman
+- Jira
+- Notion
 
 **Marketing & Search**
-- Search engine optimization (SEO)
-- LinkedIn advertising
-
-**Quality & Delivery**
-- Quality assurance mindset
-- Website review and troubleshooting
-
-> Skills above are limited to the supplied profile screenshots and experience details. Add specific programming languages, frameworks, testing tools, or platforms only when you can verify them from your project history or resume.
-
-
+- Search Engine Optimization (SEO)
+- Website Optimization
 
 ## Education & Recognition
 
-Education details and academic awards are not listed here yet because the supplied screenshots do not verify the degree, CGPA, or named competition results. I’m proud to have ranked at the top in my class’s web project expo and received a trophy; this is presented as a personal academic highlight, not as a national award.
+I’m proud to have ranked at the top in my class’s web project expo and received a trophy. This recognition reflects my interest in practical development and creative problem-solving.
 
 ## Connect
 
